@@ -3,7 +3,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 160px 150px;
+    padding: 150px 150px;
     gap: 20px;
     background-image: linear-gradient(to right, #363795ea, #005C97ea), url(../../Assests/bg-home.jpg);
     background-size: cover;
