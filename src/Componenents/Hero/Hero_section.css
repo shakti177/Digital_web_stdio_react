@@ -1,0 +1,32 @@
+#herosection{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 160px 150px;
+    gap: 20px;
+    background-image: linear-gradient(to right, #363795ea, #005C97ea), url(../../Assests/bg-home.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#herosection h4{
+    letter-spacing: 8px;
+    color: white;
+    font-weight: 700;
+}
+
+#herosection h1{
+    font-size: 45px;
+    padding: 0px 200px;
+    text-align: center;
+    color: white;
+    font-weight: 800;
+}
+
+#herosection p{
+    padding: 10px 270px;
+    text-align: center;
+    color: white;
+
+}
