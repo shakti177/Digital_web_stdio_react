@@ -1,0 +1,53 @@
+.engage_main {
+  display: flex;
+  padding: 90px 120px;
+  justify-content: space-between;
+}
+
+.engage_left {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  justify-content: center;
+  gap: 30px;
+}
+
+.engage_left h2 {
+  padding-right: 70px;
+}
+
+.engage_left p {
+  color: #858d96;
+}
+
+.engage_bullets {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding-bottom: 20px;
+}
+
+.engage_left button {
+  width: 30%;
+  padding: 12px 0;
+  border: none;
+  border-radius: 3px;
+  font-size: 15px;
+  font-weight: 700;
+  color: white;
+  background-color: #1bbc9d;
+  transition: 0.5s;
+}
+
+.engage_left button:hover {
+  transform: translateY(-7px);
+  transition: 0.5s;
+}
+
+.engage_right {
+  width: 40%;
+}
+
+.engage_right img {
+  width: 100%;
+}
