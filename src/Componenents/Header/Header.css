@@ -3,6 +3,10 @@
   justify-content: space-between;
   padding: 20px 150px;
   align-items: center;
+  background-color: white;
+  position: sticky;
+  top: 0;
+  box-shadow: 0 10px 33px rgba(0, 0, 0, 0.1);
 }
 
 .logo {
@@ -31,9 +35,9 @@
   transition: 0.3s;
 }
 
-.menuitems ul li a:hover{
-    color: #1bbc9d;
-    transition: 0.3s;
+.menuitems ul li a:hover {
+  color: #1bbc9d;
+  transition: 0.3s;
 }
 
 .headerButton button {
