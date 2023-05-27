@@ -1,0 +1,41 @@
+#banner2section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 18px;
+    padding: 100px 120px;
+    background-image: linear-gradient(to right, #363795ea, #005c97ea),
+      url(../../Assests/banner2.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #banner2section h2 {
+    font-size: 40px;
+    color: white;
+  }
+  
+  #banner2section p {
+    color: white;
+    padding: 10px 230px;
+    padding-bottom: 25px;
+    text-align: center;
+  }
+  
+  #banner2section button {
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    padding: 12px 25px;
+    font-weight: 300;
+    border: none;
+    border-radius: 5px;
+    transition: 0.5s;
+  }
+  
+  #banner2section button:hover {
+    transform: translateY(-7px);
+    transition: 0.5s;
+  }
+  
