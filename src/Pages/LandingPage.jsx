@@ -9,6 +9,8 @@ import Team from '../Componenents/Team/Team';
 import Banner2 from '../Componenents/Banner2/Banner2';
 import Pricing from '../Componenents/Pricing/Pricing';
 import Testimonials from '../Componenents/Testimonials/Testimonials';
+import News from '../Componenents/News/News';
+import Contact from '../Componenents/Contact/Contact';
 
 const LandingPage = () => {
   return (
@@ -23,6 +25,8 @@ const LandingPage = () => {
       <Pricing/>
       <Testimonials/>
       <Banner2/>
+      <News/>
+      <Contact/>
     </div>
   )
 }

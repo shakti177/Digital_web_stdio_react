@@ -1,0 +1,28 @@
+#contact {
+  background-color: white;
+  padding: 80px 120px;
+}
+
+.contact_main {
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+}
+
+.contact_heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+}
+
+.contact_heading h2 {
+  font-size: 30px;
+}
+
+.contact_heading p {
+  color: #858d96;
+  width: 60%;
+  text-align: center;
+}
