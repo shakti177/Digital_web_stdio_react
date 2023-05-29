@@ -8,6 +8,7 @@ import Engage from '../Componenents/Engage/Engage';
 import Team from '../Componenents/Team/Team';
 import Banner2 from '../Componenents/Banner2/Banner2';
 import Pricing from '../Componenents/Pricing/Pricing';
+import Testimonials from '../Componenents/Testimonials/Testimonials';
 
 const LandingPage = () => {
   return (
@@ -20,6 +21,7 @@ const LandingPage = () => {
       <Banner/>
       <Team/>
       <Pricing/>
+      <Testimonials/>
       <Banner2/>
     </div>
   )
