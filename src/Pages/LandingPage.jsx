@@ -11,6 +11,8 @@ import Pricing from '../Componenents/Pricing/Pricing';
 import Testimonials from '../Componenents/Testimonials/Testimonials';
 import News from '../Componenents/News/News';
 import Contact from '../Componenents/Contact/Contact';
+import Footer from '../Componenents/Footer/Footer';
+import Copyright from '../Componenents/Copyright/Copyright';
 
 const LandingPage = () => {
   return (
@@ -27,6 +29,8 @@ const LandingPage = () => {
       <Banner2/>
       <News/>
       <Contact/>
+      <Footer/>
+      <Copyright/>
     </div>
   )
 }

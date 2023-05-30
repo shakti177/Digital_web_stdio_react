@@ -1,0 +1,18 @@
+#copyright {
+  background-color: #2e313a;
+  padding: 15px 120px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#copyright p {
+  color: #98a0aa;
+}
+
+.social_icons {
+  display: flex;
+  gap: 20px;
+  color: #98a0aa;
+  transition: 0.5s;
+}
