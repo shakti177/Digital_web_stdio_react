@@ -14,5 +14,5 @@
   display: flex;
   gap: 20px;
   color: #98a0aa;
-  transition: 0.5s;
+  cursor: pointer;
 }
