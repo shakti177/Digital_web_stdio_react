@@ -3,10 +3,10 @@
   padding: 80px 120px;
 }
 
-.pricing_main{
-    display: flex;
-    flex-direction: column;
-    gap: 80px;
+.pricing_main {
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
 }
 
 .pricing_heading {

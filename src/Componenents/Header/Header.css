@@ -53,4 +53,5 @@
 .headerButton button:hover {
   transform: translateY(-7px);
   transition: 0.5s;
+  cursor: pointer;
 }
