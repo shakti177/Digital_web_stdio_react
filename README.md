@@ -1,4 +1,4 @@
-Check Live - digital-web-studio-react.netlify.app
+Check Live - [digital-web-studio-react.netlify.app](https://digital-web-studio-react.netlify.app/)
 
 # Getting Started with Create React App
 
