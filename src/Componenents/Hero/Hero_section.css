@@ -29,3 +29,11 @@
     text-align: center;
     color: white;
 }
+
+@media screen and (max-width: 600px){
+    #herosection{
+        padding: 0;
+        margin: 0;
+        width: 100%;
+    }
+}
